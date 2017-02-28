@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Packages/CCurl-0.2.3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Packages/HeliumLogger-1.6.0" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Packages/Kitura-1.6.1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Packages/Kitura-TemplateEngine-1.6.0" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Packages/Kitura-net-1.6.2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Packages/KituraStencil-1.6.0" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Packages/LoggerAPI-1.6.0" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Packages/PathKit-0.7.1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Packages/SSLService-0.12.22" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Packages/Socket-0.12.31" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Packages/Spectre-0.7.2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Packages/Stencil-0.7.2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Packages/SwiftyJSON-15.0.5" vcs="Git" />
+  </component>
+</project>
